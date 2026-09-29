@@ -71,7 +71,6 @@ python vs_impossible.py
 tic-tac-toe/
 │
 ├── README.md
-├── .gitignore
 │
 ├── vs_random.py
 ├── vs_defense.py
